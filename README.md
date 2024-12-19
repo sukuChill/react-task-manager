@@ -43,9 +43,16 @@ Once paster save and run the command "npm start" to start your application.
 -----------------------------
 
 19 / 12 / 2024
+
+
 React tutorial
+
     - npm create vite@4.1.0
+    
     - cd api-demo-app/
+    
     - npm i
+    
     - npm run dev
+    
     - npm i bootstrap@5.2.3
